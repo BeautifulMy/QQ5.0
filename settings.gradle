@@ -1,0 +1,1 @@
+include ':MySlidingMenu', ':deleteslid', ':parallax', ':quickindex', ':qqui', ':quicksearch', ':slidingmenu'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySlidingMenu/MySlidingMenu.iml" filepath="$PROJECT_DIR$/MySlidingMenu/MySlidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQ5.0.iml" filepath="$PROJECT_DIR$/QQ5.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deleteslid/deleteslid.iml" filepath="$PROJECT_DIR$/deleteslid/deleteslid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallax/parallax.iml" filepath="$PROJECT_DIR$/parallax/parallax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqui/qqui.iml" filepath="$PROJECT_DIR$/qqui/qqui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickindex/quickindex.iml" filepath="$PROJECT_DIR$/quickindex/quickindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quicksearch/quicksearch.iml" filepath="$PROJECT_DIR$/quicksearch/quicksearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+    </modules>
+  </component>
+</project>
